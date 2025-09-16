@@ -1,8 +1,8 @@
 <img src="./images/denoiser.png" width="500px"></img>
 
-## Denoising Diffusion Probabilistic Model, in Pytorch
+## Generating a 1000-member Ensemble of Integrated Water Vapor Transport Forecasts with Diffusion
 
-Application of <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Model</a> in Pytorch towards generating probabilistic integrated vapor transport (IVT) forecasts from deterministic forecasts. This model is trained to create a distribution of possible states of IVT when given a forecast from West-WRF. It can produce any amount of ensemble members. Pretrained models and experimental data for forecasts of 3 days, 4 days, and 5 days can be found here: <a href="https://scholar.colorado.edu/concern/datasets/3197xn88s">
+Application of <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Model</a> in Pytorch towards generating probabilistic integrated vapor transport (IVT) forecasts from deterministic forecasts. This model is trained to create a distribution of possible states of IVT when given a forecast from West-WRF. It can produce any amount of ensemble members. Pretrained models and experimental data for forecasts of 3 days, 4 days, and 5 days can be found here: <a href="https://scholar.colorado.edu/concern/datasets/3197xn88s">Dataset</a>
 
 
 
