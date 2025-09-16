@@ -1,0 +1,56 @@
+name: /glade/work/timothyh/miniconda3/envs/analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - jupyter
+  - cftime
+  - ipykernel
+  - xarray
+  - numba
+  - esmtools
+  - regionmask
+  - pip
+  - distributed
+  - jupyter-server-proxy
+  - cartopy
+  - cmocean
+  - eofs
+  - holoviews
+  - nc-time-axis
+  - statsmodels
+  - rise
+  - netcdf4
+  - jupyterlab
+  - xskillscore
+  - dask-jobqueue
+  - basemap
+  - esmpy[build=mpi*]
+  - black
+  - xgcm
+  - matplotlib
+  - xhistogram
+  - python=3.8
+  - seaborn
+  - bottleneck
+  - climpred
+  - xesmf
+  - scipy
+  - hvplot
+  - h5netcdf
+  - descartes
+  - xrft
+  - numpy
+  - dask
+  - proplot
+  - isort
+  - geopandas
+  - zarr
+  - flake8
+  - geoviews
+  - wandb
+  - windspharm
+  - sktime
+prefix: /glade/work/timothyh/miniconda3/envs/analysis
